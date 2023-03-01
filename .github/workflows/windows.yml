@@ -2,7 +2,7 @@ name: Windows
 
 on:
   push:
-    branches: [ main ]
+    branches: [ main, windows-ci-rebase ]
   pull_request:
     branches: [ main ]
 
